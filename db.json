@@ -52,15 +52,15 @@
             }
           ],
           "description": "A Paciente esta com dor de cabeça...",
-          "risk": "Risco Habitual", //( obs: verder)
+          "risk": "Risco Habitual",
           "createdAt": "2020-02-20"
         }
       },
       {
         "professionalProfile": 
         {
-          "idProfile": 2, //Alterado com o do original
-          "name": "Gabriela Camargo", //Alterado com o do original
+          "idProfile": 2,
+          "name": "Gabriela Camargo",
           "photoUrl": "link",
           "specialty": "Nutricionista/Pediatria"
         },
@@ -78,8 +78,8 @@
               "description": "Dúvidas sobre demanda..."
             }
           ],
-          "description": "",
-          "risk": "Alto Risco", //( obs: Vermelho )
+          "description": "Dores",
+          "risk": "Alto Risco",
           "createdAt": "2020-02-20"
         }
       }
