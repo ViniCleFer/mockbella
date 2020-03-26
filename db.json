@@ -17,14 +17,14 @@
     "program": [
       {
         "idProgram": 1,
-		  	"description": "A gestação exige alguns cuidados 	especiais com a mulher...",
-			  "audience": "Mulheres grávidas",
+	"description": "A gestação exige alguns cuidados especiais com a mulher",
+	"audience": "Mulheres grávidas",
         "PhotoUrl": "link"
       },
       {
         "idProgram": 2,
-		  	"description": "A maternidade exige alguns cuidados especiais com a mulher...",
-			  "audience": "Mulheres grávidas",
+	"description": "A maternidade exige alguns cuidados especiais com a mulher",
+	"audience": "Mulheres grávidas",
         "PhotoUrl": "link"
       }
     ],
@@ -44,16 +44,16 @@
           [
             {
               "id": 1,
-              "description": "Excesso de sono e baixo interesse..."
+              "description": "Excesso de sono e baixo interesse"
             },
             {
               "id": 2,
-              "description": "Dúvidas sobre demanda..."
+              "description": "Dúvidas sobre demanda"
             }
           ],
-          "description": "A Paciente esta com dor de cabeça...",
+          "description": "A Paciente esta com dor de cabeça",
           "risk": "Risco Habitual",
-          "createdAt": "2020-02-20"
+          "createdAt": "2020-02-20",
         }
       },
       {
@@ -62,7 +62,7 @@
           "idProfile": 2,
           "name": "Gabriela Camargo",
           "photoUrl": "link",
-          "specialty": "Nutricionista/Pediatria"
+          "specialty": "Nutricionista/Pediatria",
         },
         "medicalRecord": 
         {
@@ -71,11 +71,11 @@
           [
             {
               "id": 1,
-              "description": "Excesso de sono e baixo interesse..."
+              "description": "Excesso de sono e baixo interesse",
             },
             {
               "id": 2,
-              "description": "Dúvidas sobre demanda..."
+              "description": "Dúvidas sobre demanda",
             }
           ],
           "description": "Dores",
@@ -98,7 +98,7 @@
             },
             {
               "id": 2,
-              "description": "Dúvidas sobre demanda..."
+              "description": "Dúvidas sobre demanda"
             }
           ]
         }
@@ -115,7 +115,7 @@
             },
             {
               "id": 2,
-              "description": "Dúvidas sobre demanda..."
+              "description": "Dúvidas sobre demanda"
             }
           ]
         }
