@@ -5,13 +5,13 @@
         "profileId": 1,
         "name": "Laura Souguelis",
         "photoUrl": "link",
-        "birthDate": "2015-01-01"
+        "birthDate": "2015-01-01",
       },
       {
         "profileId": 2,
         "name": "Rebeca Gonçalves",
         "photoUrl": "link",
-        "birthDate": "2014-01-01"
+        "birthDate": "2014-01-01",
       }
     ],
     "program": [
@@ -19,13 +19,13 @@
         "idProgram": 1,
 	"description": "A gestação exige alguns cuidados especiais com a mulher",
 	"audience": "Mulheres grávidas",
-        "PhotoUrl": "link"
+        "PhotoUrl": "link",
       },
       {
         "idProgram": 2,
 	"description": "A maternidade exige alguns cuidados especiais com a mulher",
 	"audience": "Mulheres grávidas",
-        "PhotoUrl": "link"
+        "PhotoUrl": "link",
       }
     ],
     "medical-record":[
@@ -35,7 +35,7 @@
           "idProfile": 1,
           "name": "Gisele Mendonça",
           "photoUrl": "link",
-          "especialty": "Nutricionista/Pediatria"
+          "especialty": "Nutricionista/Pediatria",
         },
         "medicalRecord": 
         {
@@ -44,11 +44,11 @@
           [
             {
               "id": 1,
-              "description": "Excesso de sono e baixo interesse"
+              "description": "Excesso de sono e baixo interesse",
             },
             {
               "id": 2,
-              "description": "Dúvidas sobre demanda"
+              "description": "Dúvidas sobre demanda",
             }
           ],
           "description": "A Paciente esta com dor de cabeça",
@@ -80,7 +80,7 @@
           ],
           "description": "Dores",
           "risk": "Alto Risco",
-          "createdAt": "2020-02-20"
+          "createdAt": "2020-02-20",
         }
       }
     ],
@@ -94,11 +94,11 @@
           [
             {
               "id": 1,
-              "description": "Paciente com duvida sobre alimentação"
+              "description": "Paciente com duvida sobre alimentação",
             },
             {
               "id": 2,
-              "description": "Dúvidas sobre demanda"
+              "description": "Dúvidas sobre demanda",
             }
           ]
         }
@@ -111,11 +111,11 @@
           [
             {
               "id": 1,
-              "description": "Atendimento de rotina"
+              "description": "Atendimento de rotina",
             },
             {
               "id": 2,
-              "description": "Dúvidas sobre demanda"
+              "description": "Dúvidas sobre demanda",
             }
           ]
         }
