@@ -9,7 +9,7 @@
       },
       {
         "profileId": 2,
-        "name": "Rebeca Gonçalves",
+        "name": "Rebeca Goncalves",
         "photoUrl": "link",
         "birthDate": "2014-01-01",
       }
@@ -17,14 +17,14 @@
     "program": [
       {
         "idProgram": 1,
-	"description": "A gestação exige alguns cuidados especiais com a mulher",
-	"audience": "Mulheres grávidas",
+	"description": "A gestacao exige alguns cuidados especiais com a mulher",
+	"audience": "Mulheres gravidas",
         "PhotoUrl": "link",
       },
       {
         "idProgram": 2,
 	"description": "A maternidade exige alguns cuidados especiais com a mulher",
-	"audience": "Mulheres grávidas",
+	"audience": "Mulheres gravidas",
         "PhotoUrl": "link",
       }
     ],
@@ -51,7 +51,7 @@
               "description": "Dúvidas sobre demanda",
             }
           ],
-          "description": "A Paciente esta com dor de cabeça",
+          "description": "A Paciente esta com dor de cabeca",
           "risk": "Risco Habitual",
           "createdAt": "2020-02-20",
         }
@@ -75,7 +75,7 @@
             },
             {
               "id": 2,
-              "description": "Dúvidas sobre demanda",
+              "description": "Duvidas sobre demanda",
             }
           ],
           "description": "Dores",
@@ -94,11 +94,11 @@
           [
             {
               "id": 1,
-              "description": "Paciente com duvida sobre alimentação",
+              "description": "Paciente com duvida sobre alimentacao",
             },
             {
               "id": 2,
-              "description": "Dúvidas sobre demanda",
+              "description": "Duvidas sobre demanda",
             }
           ]
         }
@@ -115,7 +115,7 @@
             },
             {
               "id": 2,
-              "description": "Dúvidas sobre demanda",
+              "description": "Duvidas sobre demanda",
             }
           ]
         }
